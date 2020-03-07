@@ -1,5 +1,8 @@
 package com.boqi.leetcode;
 
+/**
+ * LeetCode第二题，逆序算出链表节点的和
+ */
 public class LeetCode2 {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);

@@ -2,6 +2,9 @@ package com.boqi.leetcode;
 
 import java.util.Arrays;
 
+/**
+ * LeetCode 第一题，找出数组中是否有两个数和为target
+ */
 public class LeetCode1 {
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};
