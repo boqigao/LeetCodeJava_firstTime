@@ -9,9 +9,6 @@ public class LeetCode2 {
         l1.next = new ListNode(2);
         ListNode l2 = new ListNode(3);
         l2.next = new ListNode(4);
-
-
-
     }
 
 
